@@ -1,3 +1,5 @@
+package org.NorseStar;
+
 import org.NorseStar.app.Song;
 import org.NorseStar.app.TagRepository;
 
